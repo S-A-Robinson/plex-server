@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+.DS_Store
+
+# Media folders
+/library
+/movies
+/tvseries
